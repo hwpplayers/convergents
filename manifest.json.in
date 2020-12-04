@@ -1,0 +1,15 @@
+{
+    "name": "convergents.hwpplayer1",
+    "description": "convergent example mwv-1",
+    "architecture": "@CLICK_ARCH@",
+    "title": "convergents",
+    "hooks": {
+        "convergents": {
+            "apparmor": "convergents.apparmor",
+            "desktop":  "convergents.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "mertgor <mertgor@masscollabs.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
