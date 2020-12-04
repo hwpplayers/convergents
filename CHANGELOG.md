@@ -1,3 +1,9 @@
+commit 3545eb134b38d6b5043430abb11170a30e9ad18d
+Author: Mert Gör <mertgor@masscollabs.com>
+Date:   Fri Dec 4 11:29:40 2020 +0300
+
+    added Changelog.md
+
 commit 9b1170a29b53329a21f4f6611bb364647445a507
 Author: Mert Gör <mertgor@masscollabs.com>
 Date:   Fri Dec 4 11:28:33 2020 +0300
