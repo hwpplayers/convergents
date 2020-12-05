@@ -4,7 +4,7 @@ convergent example mwv-1
 
 ## License
 
-Copyright (C) 2020  mertgor
+Copyright (C) 2020  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License version 3, as published
 by the Free Software Foundation.
