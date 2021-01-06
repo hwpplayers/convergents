@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the convergents.hwpplayer1 package.
+# This file is distributed under the same license as the convergents package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: convergents.hwpplayer1\n"
+"Project-Id-Version: convergents\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-05 06:02+0000\n"
+"POT-Creation-Date: 2021-01-06 12:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../qml/Main.qml:38 convergents.desktop.in.h:1
+#: ../qml/Main.qml:39 convergents.desktop.in.h:1
 msgid "convergents"
 msgstr ""
 
-#: ../qml/Main.qml:48
+#: ../qml/Main.qml:49
 msgid "Check the logs!"
 msgstr ""

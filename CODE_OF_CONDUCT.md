@@ -1,5 +1,7 @@
+# License
+
 Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
-			    
+
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -7,9 +9,9 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
-# Masscollabs Services Code of Conduct
+## Masscollabs Services Code of Conduct
 
-* This code of conduct file is licensed under the terms of GFDLv1.3 or any later. 
+* This code of conduct file is licensed under the terms of GFDLv1.3 or any later.
 * This Code of Conduct applies to Masscollabs Services or in other words [Masscollabs](https://github.com/masscollabs/), [Masscollaboration Labs](https://github.com/masscollaborationlabs), [amassivus](https://www.github.com/amassivus), [procyberian hackathon or in other words procyberian Linux](https://github.com/procyberian-linux), and [hwpplayers](https://github.com/hwpplayers/) hackerspace organizations.
 
 ## Why we are writing a Code of Conduct and why it is so important
@@ -20,8 +22,8 @@ Free Documentation License".
 
 ### Domains and licenses
 
-* We decide three layers for each organization hwpplayers, procyberian and Masscollabs Services. For in-house purposes and for our partners which we have a very close contact, like in person, we prefer Copyleft licenses. Mostly we prefer AGPLv3 or later because we are focused on Internet technologies. But for other software GPLv3 or later, for documentation GFDLv1.3 or later, for artworks CC BY-SA 4.0 or later licenses are what we prefer for our own works. 
-* For outsiders and who are **not** in our community instances, maybe other companies, individuals or state organizations we'll offer BSD 3-Clause license. The reason is easy to understand, we are the authors so we can easily write anything from scratch anytime. 
+* We decide three layers for each organization hwpplayers, procyberian and Masscollabs Services. For in-house purposes and for our partners which we have a very close contact, like in person, we prefer Copyleft licenses. Mostly we prefer AGPLv3 or later because we are focused on Internet technologies. But for other software GPLv3 or later, for documentation GFDLv1.3 or later, for artworks CC BY-SA 4.0 or later licenses are what we prefer for our own works.
+* For outsiders and who are **not** in our community instances, maybe other companies, individuals or state organizations we'll offer BSD 3-Clause license. The reason is easy to understand, we are the authors so we can easily write anything from scratch anytime.
 * All code base will be written by our Core Team but contributions is needed and since we are building a free organization it is very important for us to listen other authors' ideas. But our approach is not to rely on any technology so we are trying to be a free and an independent organization, and an open system. Open system does **not** mean Open Source but we mean that we are trying to develop things for every operating system and hardware platform.
 
 ### Domains and their structures
@@ -41,9 +43,9 @@ Free Documentation License".
 
 * Contributors are newcomers to our domain and subdomains so we want to take care of their skills and abilities, such as how they do useful things for **public**. We want to encourage committers and contributors to make their own services, communities and companies for the same reason to serve to the **public**.
 
-### Why three layers 
+### Why three layers
 
-* We wanted to be careful and make a better service rather than publishing any content that is not production ready. Thus we are letting people to use our information database easy for their **real-world** needs both without any cost or paid options. You can sell our information database or use them in your **own** organization freely under the terms of the licenses mentioned above. 
+* We wanted to be careful and make a better service rather than publishing any content that is not production ready. Thus we are letting people to use our information database easy for their **real-world** needs both without any cost or paid options. You can sell our information database or use them in your **own** organization freely under the terms of the licenses mentioned above.
 
 * You **don't have to follow** our Core Team policies within the domain or subdomains so you may easily adapt our information database for your needs. If you don't like Copyleft versions you may ask for BSD 3-Clause information database. We think that it'll be better to make our organization free, open and collaborative.
 
@@ -56,7 +58,7 @@ Free Documentation License".
 * and also [Four Freedoms written by Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html)
 
 ## On Software Distribution and Support  
-	
+
 * **devel-x branches**: We plan to make daily updates for new features and security fixes in 5 minutes to 30 minutes.
 * **master-x/main-x branches**: We plan to make monthly updates for new features and security fixes in one month, three months and six months. This is the main branch for communites, end users, companies and other organizations such as foundations, associations and state organizations.
 * **stable-x branches**: We plan to make yearly updates for new features in one year, three years and five years. This is the Long Term Support branch. Stable and more focused on software and hardware security.
@@ -64,12 +66,12 @@ Free Documentation License".
 * **legacy-x branches**: On this branch we have the information database which is archived and the information that is not supported by us directly. If you want us to take care of the information database please feel free to send us an e-mail to these addresses at the same time, because it is the core of the organization, core at masscollabs dot com, security at masscollabs dot com and support at masscollabs dot com.
 
 ## Conclusion
-	
+
 * To be a free, open and collaborative organization we hope that this Code of Conduct file will help to the **public**. If you have any questions feel free to e-mail us with this format "[ REASON ] [ Message Topic ] and Message ". For example "[ Technical Support ] [ I can't get updates for my application] I can't get updates after a fresh installation with my new Operating System."
 
 ## Happy hacking!
 
-* Hacker is someone who is exploring limits of the related activity such as a Jazz improvisation with any instrument, or practicing martial arts in a clever way by following the martial arts culture, so the hacker culture itself and martial arts culture or Jazz culture are very similar thus we can say for all of them in short "hacker". They are all hackers. To be honest there are different approaches in hacker culture and this pluralism is what we need and like, and we encourage hackers to make their own practices and follow their own methodologies to do good and useful things for the **public**. 
+* Hacker is someone who is exploring limits of the related activity such as a Jazz improvisation with any instrument, or practicing martial arts in a clever way by following the martial arts culture, so the hacker culture itself and martial arts culture or Jazz culture are very similar thus we can say for all of them in short "hacker". They are all hackers. To be honest there are different approaches in hacker culture and this pluralism is what we need and like, and we encourage hackers to make their own practices and follow their own methodologies to do good and useful things for the **public**.
 
 * freedom is good
 * openness is good
@@ -78,5 +80,3 @@ Free Documentation License".
 * we demand to do good and useful things for the *public* and do **not** want to rely on any technology so we are authors and we can make something better replacing existing information and technology.
 
 If you have any questions please create an issue on this repository or join the [Masscollabs Freenode channel](https://webchat.freenode.net/?channels=#masscollabs), [hwpplayers Freenode channel](https://webchat.freenode.net/?channels=#hwpplayers), [procyberian Freenode channel](https://webchat.freenode.net/?channels=#procyberian), and [amassivus Freenode channel](https://webchat.freenode.net/?channels=#amassivus) to ask your question.
-
-

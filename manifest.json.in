@@ -1,6 +1,6 @@
 {
-    "name": "convergents.hwpplayer1",
-    "description": "convergent example mwv-1",
+    "name": "convergents",
+    "description": "convergent developer hubs",
     "architecture": "@CLICK_ARCH@",
     "title": "convergents",
     "hooks": {
