@@ -9,7 +9,7 @@
             "desktop":  "convergents.desktop"
         }
     },
-    "version": "2",
+    "version": "3",
     "maintainer": "Mert Gör <mertgor@masscollabs.com>",
     "framework" : "ubuntu-sdk-16.04"
 }
